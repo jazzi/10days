@@ -1,4 +1,4 @@
-## Welcome 
+## Welcome to 10 days!
 
 You can use the [editor on GitHub](https://github.com/jazzi/10days/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
